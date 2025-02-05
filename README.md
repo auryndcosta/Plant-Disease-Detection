@@ -1,3 +1,4 @@
+Use the following drive link to find the hdf5 file(plant_disease.h5): https://drive.google.com/file/d/1xA2RETh30mybyxxxlgo2y6EqGFhMkAV8/view?usp=sharing
 Overview
 This project is a Plant Disease Prediction System that integrates a machine learning (ML) model with a Flask-based backend and a frontend interface. The model predicts plant diseases from uploaded images using a pre-trained deep learning model and gives us an accuracy of 90%.
 Features
